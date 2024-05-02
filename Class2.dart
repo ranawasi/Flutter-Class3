@@ -1,3 +1,5 @@
 void main (){
-  print("Class 2 file");
+
+  int age = 12;
+  print(age);
 }
